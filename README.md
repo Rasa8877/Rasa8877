@@ -1,5 +1,4 @@
 # Hi There! I'm Rasa8877
----
 # 💫 About Me:
 I'm a newcomer to python.<br>Sometimes i do web developing.<br>A vibe coder actually.<br>I love coding, like its my meditation.<br>I'm currently working on CelestiaOS.
 
