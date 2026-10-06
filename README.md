@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm not working on anything currently.<br>I'm currently learning C.<br>I'm a python, C, CPP beginner.<br>My favorite project is [Vesta Lang(https://github.com/Rasa8877/Vesta-Lang)]
+I'm not working on anything currently.<br>I'm currently learning C.<br>I'm a python, C, CPP beginner.<br>My favorite project is [Vesta Lang](https://github.com/Rasa8877/Vesta-Lang)
 
 
 ## 🌐 Socials:
